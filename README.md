@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalidNuev9&layout=compact)](https://github.com/WalidNuev9/github-readme-stats)
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?WalidNuev9=vn7n24fzkq&theme=vue)
