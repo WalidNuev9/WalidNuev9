@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WalidNuev9&theme=monokai)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WalidNuev9&show_icons=true&theme=radical)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalidNuev9&layout=compact)](https://github.com/WalidNuev9/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WalidNuev9&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WalidNuev9&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WalidNuev9&theme=monokai)
 
 
