@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WalidNuev9&show_icons=true&theme=radical)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WalidNuev9&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WalidNuev9&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WalidNuev9&theme=monokai)
 
 
 <p align="left"> 
